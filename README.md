@@ -30,4 +30,5 @@ leaveMessage=your_leave_message
 The bot component currently has two commands:
 
 /ping - get the bot's response time
+
 /online - view online players
