@@ -1,0 +1,4 @@
+name: Watchdog
+version: 1.0.0
+main: main.java.watchdog.Watchdog
+api-version: 1.18
